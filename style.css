@@ -1,0 +1,72 @@
+.topform{
+    background-color:azure;
+    padding: 4vw;
+    width:100rem;
+    font-size: 1.2vw;
+}
+
+.flex-container{
+    display:flex;
+    width:100vw;
+    height:100vh;
+}
+
+*{
+    margin:0;
+    overflow: hidden;
+}
+
+.left{
+    height:100vh;
+}
+
+.content{
+    width:100vw;
+    height: 100vw;
+}
+
+.formhead{
+    font-size: 2rem;
+    padding-bottom: 1rem;
+}
+
+input, label{
+    display:block;
+
+}
+
+label{
+    margin-bottom: 0.2rem;
+}
+
+input{
+    margin-bottom: 1rem;
+}
+
+.botform{
+    background-color:azure;
+    padding: 3vh 4vw;
+    width:100rem;
+    font-size: 1.2vw;
+    height:35%
+}
+
+.submit{
+    background-color: white;
+    font-size: 1.2rem;
+    padding:1%;
+    border-radius: 7px;
+}
+
+.midform{
+    background-color: white;
+    padding:5em;
+    padding-right: 50em;
+    box-shadow: 0 -5px 5px -5px #333;
+    height:30%
+}
+
+.login{
+    font-size:0.9rem;
+    margin-top: 1%;
+}
